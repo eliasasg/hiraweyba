@@ -132,7 +132,7 @@
     gap: 0px 100px;
   }
   .massageimage{
-    width: 800px;
+    max-width: 600px;
     border-radius: 100px;
   }
   .mind,
